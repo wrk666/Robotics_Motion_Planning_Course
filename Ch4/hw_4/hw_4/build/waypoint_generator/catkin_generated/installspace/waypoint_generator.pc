@@ -1,0 +1,8 @@
+prefix=/home/wrk/File/Other_file/SLAM/My_course/Motion_Planning/Ch4/hw_4/hw_4/install
+
+Name: waypoint_generator
+Description: Description of waypoint_generator
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

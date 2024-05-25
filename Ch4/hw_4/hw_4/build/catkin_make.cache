@@ -1,0 +1,2 @@
+grid_path_searcher:rviz_plugins:waypoint_generator
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/wrk/File/Other_file/SLAM/My_course/Motion_Planning/Ch4/hw_4/hw_4/devel -DCMAKE_INSTALL_PREFIX=/home/wrk/File/Other_file/SLAM/My_course/Motion_Planning/Ch4/hw_4/hw_4/install -G Unix Makefiles

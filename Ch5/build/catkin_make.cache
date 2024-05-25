@@ -1,0 +1,2 @@
+lec5_hw
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/wrk/File/Other_file/SLAM/My_course/Motion_Planning/MP_repo/Ch5/devel -DCMAKE_INSTALL_PREFIX=/home/wrk/File/Other_file/SLAM/My_course/Motion_Planning/MP_repo/Ch5/install -G Unix Makefiles

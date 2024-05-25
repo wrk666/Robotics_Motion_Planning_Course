@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libgmock_maind.so.1.11.0 -o ../lib/libgmock_maind.so.1.11.0 CMakeFiles/gmock_main.dir/src/gmock_main.cc.o  -Wl,-rpath,/home/wrk/File/Other_file/SLAM/My_course/Motion_Planning/Ch1/hw-1/hw_1/src/cmake-build-debug/gtest/lib ../lib/libgmockd.so.1.11.0 ../lib/libgtestd.so.1.11.0 

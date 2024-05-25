@@ -1,0 +1,2 @@
+set(car_msgs_MESSAGE_FILES "/home/wrk/File/Other_file/SLAM/My_course/Motion_Planning/MP_repo/Ch6/L6-Car_MPC_HW/L6-homework/src/car_msgs/msg/CarCmd.msg")
+set(car_msgs_SERVICE_FILES "")

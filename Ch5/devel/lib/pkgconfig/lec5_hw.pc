@@ -1,0 +1,8 @@
+prefix=/home/wrk/File/Other_file/SLAM/My_course/Motion_Planning/MP_repo/Ch5/devel
+
+Name: lec5_hw
+Description: Description of lec5_hw
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f296aa05-0388-435b-9714-444bd2e2404b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/grid_path_searcher/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/grid_path_searcher/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid_path_searcher/include/backward.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/grid_path_searcher/include/backward.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid_path_searcher/include/graph_searcher.h" beforeDir="false" afterPath="$PROJECT_DIR$/grid_path_searcher/include/graph_searcher.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid_path_searcher/launch/demo.launch" beforeDir="false" afterPath="$PROJECT_DIR$/grid_path_searcher/launch/demo.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid_path_searcher/launch/rviz_config/demo.rviz" beforeDir="false" afterPath="$PROJECT_DIR$/grid_path_searcher/launch/rviz_config/demo.rviz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid_path_searcher/src/demo_node.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/grid_path_searcher/src/demo_node.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid_path_searcher/src/graph_searcher.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/grid_path_searcher/src/graph_searcher.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/grid_path_searcher" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="2bD5XnlAZoB2o9CAfH4HohArzUJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f296aa05-0388-435b-9714-444bd2e2404b" name="Default Changelist" comment="" />
+      <created>1705736850825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705736850825</updated>
+      <workItem from="1705736852481" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
